@@ -16,6 +16,7 @@
             android:layout_marginRight="@dimen/list_toolbar_side_margin"
             android:layout_width="match_parent"
             app:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
             android:layout_height="?actionBarSize"
             android:layout_gravity="bottom">
 
